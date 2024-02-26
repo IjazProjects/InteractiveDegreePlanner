@@ -1,0 +1,68 @@
+{
+  "name": "mavdegreeplanner-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-syntax-flow": "^7.14.5",
+    "@babel/plugin-transform-react-jsx": "^7.14.9",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@testing-library/dom": "^8.11.2",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.9",
+    "@types/react": "^17.0.38",
+    "@types/react-beautiful-dnd": "^13.1.2",
+    "@types/react-dom": "^17.0.11",
+    "@types/styled-components": "^5.1.24",
+    "autoprefixer": "^10.0.2",
+    "bootstrap": "^5.1.3",
+    "firebase": "^9.6.5",
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.5",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-bootstrap": "^2.1.1",
+    "react-dom": "^17.0.2",
+    "react-firebase-hooks": "^5.0.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.0",
+    "react-tooltip": "^4.2.21",
+    "react-zoom-pan-pinch": "^2.1.3",
+    "styled-components": "^5.3.3",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.3"
+  },
+  "resolutions": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
